@@ -1,0 +1,1 @@
+{"name":"Registrador Pessoal","short_name":"Registrador","description":"Diário clínico e agenda privada: passado, presente e possibilidades.","lang":"pt-BR","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#EEF2F1","theme_color":"#255A6B","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
